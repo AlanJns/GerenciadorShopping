@@ -90,7 +90,7 @@ O projeto foi apresentado em vídeo conforme as diretrizes da disciplina. Todos 
 ## 👤 Autor
 
 - **Alan Jones**
-- [LinkedIn]: https://www.linkedin.com/in/alan-jones-ti
+- https://www.linkedin.com/in/alan-jones-ti
 
 ---
 
