@@ -89,8 +89,8 @@ O projeto foi apresentado em vídeo conforme as diretrizes da disciplina. Todos 
 
 ## 👤 Autor
 
-- **Alan Jones Pacheco Medeiros**
-- [LinkedIn](https://www.linkedin.com) *(adicione seu link, se desejar)*
+- **Alan Jones**
+- [LinkedIn](www.linkedin.com/in/alan-jones-ti)
 
 ---
 
